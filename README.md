@@ -10,5 +10,4 @@ Using Protobuf to define Protocol Buffers
 ## Languages of interest
 
 - Python
-- JavaScript
 - Go
