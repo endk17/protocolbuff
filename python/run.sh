@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
-protoc -I=simple/ --python_out=simple/ simple/simple.proto
+protoc -I=proto --python_out=python/simple proto/simple.proto
+protoc -I=proto --python_out=python/addressbook proto/addressbook.proto

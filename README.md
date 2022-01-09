@@ -10,4 +10,7 @@ Using Protobuf to define Protocol Buffers
 ## Languages of interest
 
 - Python
-- Go
+
+## References
+
+https://developers.google.com/protocol-buffers/docs/reference/python-generated
